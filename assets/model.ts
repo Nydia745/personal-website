@@ -3,3 +3,10 @@ export enum ModalStatus {
   NotLogInWhenUsingFlashcard,
   Common
 }
+
+export type Word = {
+  index: number,
+  word: string,
+  meaning: string,
+  isImportant: boolean
+}
