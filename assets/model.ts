@@ -10,3 +10,9 @@ export type Word = {
   meaning: string,
   isImportant: boolean
 }
+
+export enum SortMethod {
+  AlphabeticalIncreasing = 'alphabetically increasing',
+  AlphabeticalDecreasing = 'alphabetically decreasing',
+  Shuffle = 'shuffle'
+}
