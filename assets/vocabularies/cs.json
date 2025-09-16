@@ -1,0 +1,1610 @@
+[
+  {
+    "word": ".bashrc",
+    "meaning": "shell script file containing commands that are run whenever a new interactive bash shell starts"
+  },
+  {
+    "word": "\"\\\\.\"",
+    "meaning": "escape character"
+  },
+  {
+    "word": "a canary deployment",
+    "meaning": "[kəˈneri] a deployment pattern that allows you to roll out new code/features to a subset of users as an initial test"
+  },
+  {
+    "word": "a class is a template for objects, and an object is an instance of a class.",
+    "meaning": ""
+  },
+  {
+    "word": "a hosting provider",
+    "meaning": "noun（计）托管"
+  },
+  {
+    "word": "a spike in demand",
+    "meaning": "需求激增"
+  },
+  {
+    "word": "abs",
+    "meaning": "abstract base class"
+  },
+  {
+    "word": "access modifier",
+    "meaning": "访问修饰符"
+  },
+  {
+    "word": "acyclic",
+    "meaning": "/eɪˈsɪklɪk/"
+  },
+  {
+    "word": "additivity",
+    "meaning": "[ˌædəˈtɪvəti]添加；相加性"
+  },
+  {
+    "word": "adobe",
+    "meaning": "/əˈdoʊ.bi/"
+  },
+  {
+    "word": "aggregate function",
+    "meaning": ""
+  },
+  {
+    "word": "allocation, reallocation, and deallocation",
+    "meaning": ""
+  },
+  {
+    "word": "amortize",
+    "meaning": "/ ˈæmərtaɪz / vt. 摊销"
+  },
+  {
+    "word": "an escape for the newline",
+    "meaning": "新行的转义"
+  },
+  {
+    "word": "anonymous function",
+    "meaning": ""
+  },
+  {
+    "word": "Apache",
+    "meaning": "[əˈpætʃi]"
+  },
+  {
+    "word": "applet",
+    "meaning": "a small computer program, often used on websites, \nthat performs one particular task and works from within a larger program"
+  },
+  {
+    "word": "assembler",
+    "meaning": "[əˈsemblər]汇编器"
+  },
+  {
+    "word": "atomic",
+    "meaning": "/əˈtɑː.mɪk/"
+  },
+  {
+    "word": "attach the heat sink and cooling fan",
+    "meaning": "安装散热器和冷却风扇"
+  },
+  {
+    "word": "attach the motherboard to the case",
+    "meaning": "将主板连接到机箱"
+  },
+  {
+    "word": "attribute–value pair",
+    "meaning": "ˈætrɪˌbjuːt"
+  },
+  {
+    "word": "augmented assignment",
+    "meaning": ""
+  },
+  {
+    "word": "auto complete/quick fit/formatting",
+    "meaning": ""
+  },
+  {
+    "word": "automated rollouts and rollbacks",
+    "meaning": "自动部署或回滚"
+  },
+  {
+    "word": "automaton",
+    "meaning": "[ɔːˈtɑːmətən] 自动机"
+  },
+  {
+    "word": "available in both open source and proprietary implementations",
+    "meaning": "[prəˈpraɪəteri]"
+  },
+  {
+    "word": "avoid boilerplate code or duplication of logic",
+    "meaning": ""
+  },
+  {
+    "word": "azure",
+    "meaning": "[ˈæʒər]"
+  },
+  {
+    "word": "backbone",
+    "meaning": "[ˈbækboʊn]（计算机）主干网"
+  },
+  {
+    "word": "backwards-compatibility",
+    "meaning": ""
+  },
+  {
+    "word": "benchmarking data",
+    "meaning": ""
+  },
+  {
+    "word": "best-effort",
+    "meaning": "尽力而为，尽最大努力；尽力服务"
+  },
+  {
+    "word": "Bill Of Materials",
+    "meaning": "BOM"
+  },
+  {
+    "word": "bipartite",
+    "meaning": "/ˌbaɪˈpɑːr.t̬aɪt/ involving two people or organizations, or existing in two parts"
+  },
+  {
+    "word": "blob",
+    "meaning": "二进制大对象(BLOB)是任意类型的数据。BLOB的大小没有限制。"
+  },
+  {
+    "word": "boilerplate",
+    "meaning": "/ˈbɔɪ.lɚ.pleɪt/"
+  },
+  {
+    "word": "bolt",
+    "meaning": "/ boʊlt /螺栓"
+  },
+  {
+    "word": "bootstrap",
+    "meaning": "引导程序"
+  },
+  {
+    "word": "branching logic",
+    "meaning": "high level work flow design"
+  },
+  {
+    "word": "breakpoint",
+    "meaning": ""
+  },
+  {
+    "word": "build number/ release number",
+    "meaning": ""
+  },
+  {
+    "word": "bytecode",
+    "meaning": "code that computer can execute"
+  },
+  {
+    "word": "callback",
+    "meaning": "回调"
+  },
+  {
+    "word": "camelCase/PascalCase/snake_case",
+    "meaning": ""
+  },
+  {
+    "word": "CAP",
+    "meaning": "consistency/availability/partition"
+  },
+  {
+    "word": "caret",
+    "meaning": "a cursor on a screen that shows where text should be entered"
+  },
+  {
+    "word": "carriage return",
+    "meaning": "[计]回车"
+  },
+  {
+    "word": "case sensitive",
+    "meaning": "区分大小写"
+  },
+  {
+    "word": "caveat",
+    "meaning": "[ˈkæviæt]警告"
+  },
+  {
+    "word": "CDN",
+    "meaning": "Content Delivery Network"
+  },
+  {
+    "word": "chrome",
+    "meaning": "[kroʊm]"
+  },
+  {
+    "word": "class implements Comparable -> provide Comparator for Arrays or Collections",
+    "meaning": "/ˈkɑːm.pɚ.ə.bəl/ kɑː"
+  },
+  {
+    "word": "client driver",
+    "meaning": "客户端驱动程序"
+  },
+  {
+    "word": "cloud provider",
+    "meaning": "care about its hosting and maintenance"
+  },
+  {
+    "word": "code block/quote block",
+    "meaning": "in the sense of \"computer code\" is a mass noun"
+  },
+  {
+    "word": "code editor",
+    "meaning": "代码编辑器"
+  },
+  {
+    "word": "code specification",
+    "meaning": "代码规范"
+  },
+  {
+    "word": "codebase",
+    "meaning": "代码库"
+  },
+  {
+    "word": "come down to",
+    "meaning": ""
+  },
+  {
+    "word": "command line",
+    "meaning": "[kəˈmænd]命令行"
+  },
+  {
+    "word": "command palette",
+    "meaning": "命令面板"
+  },
+  {
+    "word": "command prompt",
+    "meaning": "命令提示符"
+  },
+  {
+    "word": "commit a message",
+    "meaning": "提交信息"
+  },
+  {
+    "word": "comparator",
+    "meaning": "/kəmˈpærətər/[计] 比较器"
+  },
+  {
+    "word": "compiler",
+    "meaning": "n. 编译器"
+  },
+  {
+    "word": "computationally/memory/I/O/disk intensive",
+    "meaning": ""
+  },
+  {
+    "word": "compute resources",
+    "meaning": ""
+  },
+  {
+    "word": "config presets",
+    "meaning": ""
+  },
+  {
+    "word": "console",
+    "meaning": "[ˈkɑːnsoʊl][计] 控制台"
+  },
+  {
+    "word": "constructor/destructor",
+    "meaning": "构造函数"
+  },
+  {
+    "word": "container orchestration",
+    "meaning": ""
+  },
+  {
+    "word": "containerize",
+    "meaning": "[kənˈteɪnəˌraɪz]"
+  },
+  {
+    "word": "context producer applications",
+    "meaning": ""
+  },
+  {
+    "word": "CORS",
+    "meaning": "cross-origin resource sharing"
+  },
+  {
+    "word": "crisp sound",
+    "meaning": ""
+  },
+  {
+    "word": "CRM",
+    "meaning": "Customer Relationship Management"
+  },
+  {
+    "word": "cryptography/cryptographic/cryptocurrency/encryption(encrypt)/cryptology",
+    "meaning": "[krɪpˈtɑːɡrəfi]密码学/[ɪnˈkrɪpʃn] 加密；加密术/[krɪpˈtɑːlədʒi]密码学；密码术"
+  },
+  {
+    "word": "ctl",
+    "meaning": "command line interface"
+  },
+  {
+    "word": "cursor",
+    "meaning": "[ˈkɜːrsər]n. 光标；（计算尺的）[计] 游标，指针"
+  },
+  {
+    "word": "customizable/extensible",
+    "meaning": "[ˈkʌstəmaɪzəbl]"
+  },
+  {
+    "word": "customize a pc to their needs",
+    "meaning": ""
+  },
+  {
+    "word": "cyber/cyber-attack",
+    "meaning": "（与）网络（有关）的"
+  },
+  {
+    "word": "daemon",
+    "meaning": "[ˈdiːmən]后台程序"
+  },
+  {
+    "word": "dangling pointers",
+    "meaning": ""
+  },
+  {
+    "word": "dashboard",
+    "meaning": "仪表板"
+  },
+  {
+    "word": "data attribute = instance variables\n method attribute\n attribute reference",
+    "meaning": ""
+  },
+  {
+    "word": "data scraping",
+    "meaning": "数据抓取"
+  },
+  {
+    "word": "database tuning and optimization",
+    "meaning": ""
+  },
+  {
+    "word": "database-agnostic",
+    "meaning": "数据库不可知[æɡˈnɑːstɪk]adj. 不可知论的；怀疑的"
+  },
+  {
+    "word": "debug/troubleshoot",
+    "meaning": "/ˌdiːˈbʌɡ/ A broader term meaning to diagnose and solve problems, not limited to code"
+  },
+  {
+    "word": "decimal/decimal digits",
+    "meaning": "adj. 小数的；十进位的 n. 小数/十进制数字"
+  },
+  {
+    "word": "Declarative: What to do <-> Imperative: How to do it.",
+    "meaning": ""
+  },
+  {
+    "word": "declarator",
+    "meaning": "n. [计] 说明符"
+  },
+  {
+    "word": "declare/assign",
+    "meaning": ""
+  },
+  {
+    "word": "decorator",
+    "meaning": "[ˈdekəreɪtər]装饰器"
+  },
+  {
+    "word": "decouple",
+    "meaning": "解耦"
+  },
+  {
+    "word": "delimiter",
+    "meaning": "n. [计] 定界符"
+  },
+  {
+    "word": "designate computers on a network for storage",
+    "meaning": ""
+  },
+  {
+    "word": "desktop computer",
+    "meaning": ""
+  },
+  {
+    "word": "directive",
+    "meaning": "指令"
+  },
+  {
+    "word": "dispatcher",
+    "meaning": "调度器"
+  },
+  {
+    "word": "disruptive",
+    "meaning": "破坏的， 颠覆性的"
+  },
+  {
+    "word": "DNS",
+    "meaning": "makes its way down the list, comparing the requested URL against each pattern until it finds one that matches"
+  },
+  {
+    "word": "document-based database",
+    "meaning": "MongoDB"
+  },
+  {
+    "word": "downtime",
+    "meaning": "停机时间"
+  },
+  {
+    "word": "dreaded/dreadful",
+    "meaning": "/ˈdred.ɪd/ causing fear or worry"
+  },
+  {
+    "word": "DTO/DAO",
+    "meaning": "data transfer object/"
+  },
+  {
+    "word": "ECMAScript",
+    "meaning": "European Computer Manufacturers Association"
+  },
+  {
+    "word": "elegant, compact code",
+    "meaning": ""
+  },
+  {
+    "word": "elements bounded by 2 iterators",
+    "meaning": ""
+  },
+  {
+    "word": "emitter",
+    "meaning": "[ɪˈmɪtər]n. 发射器，发射体"
+  },
+  {
+    "word": "emoji",
+    "meaning": "[ɪˈmoʊdʒi]n. 表情符号"
+  },
+  {
+    "word": "enabler",
+    "meaning": "启用器"
+  },
+  {
+    "word": "encapsulation",
+    "meaning": "[ɪnˌkæpsjuˈleɪʃn]n. 封装；包装"
+  },
+  {
+    "word": "enterprise-grade",
+    "meaning": "[ˈentərpraɪz]n.企业级"
+  },
+  {
+    "word": "enumeration type",
+    "meaning": ""
+  },
+  {
+    "word": "environment",
+    "meaning": "on-premise/public cloud/private cloud/hybrid cloud/multicloud"
+  },
+  {
+    "word": "environment variables, command-line arguments, configuration files",
+    "meaning": ""
+  },
+  {
+    "word": "equitable/inequitable",
+    "meaning": "/ ˈekwɪtəbl //不公平的；不公正的"
+  },
+  {
+    "word": "ERP",
+    "meaning": "Enterprise Resource Planning"
+  },
+  {
+    "word": "error-prone",
+    "meaning": "[proʊn]"
+  },
+  {
+    "word": "escape character",
+    "meaning": "转义字符"
+  },
+  {
+    "word": "escape sequence",
+    "meaning": "转义序列"
+  },
+  {
+    "word": "escape, unescape",
+    "meaning": "转义, 反转义"
+  },
+  {
+    "word": "everything in Kubernetes -> api object",
+    "meaning": ""
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "/ɪɡˈzædʒ.ə.reɪt/"
+  },
+  {
+    "word": "executable",
+    "meaning": "/ˈek.sɪ.kjuː.t̬ə.bəl/"
+  },
+  {
+    "word": "executor",
+    "meaning": "/ɪɡˈzek.jə.t̬ɚ/ someone who makes sure that things are done according to the wishes in a dead person's will"
+  },
+  {
+    "word": "expands an iterable (like an array) into more elements",
+    "meaning": ""
+  },
+  {
+    "word": "expansion card, expansion slot",
+    "meaning": ""
+  },
+  {
+    "word": "expat/expatriate",
+    "meaning": "/ ˌeksˈpæt / /ekˈspeɪ.tri.ət/"
+  },
+  {
+    "word": "explain/explanatory/explanation",
+    "meaning": "/ɪkˈspleɪn//ɪkˈsplæn.ə.tɔːr.i//ˌek.spləˈneɪ.ʃən/"
+  },
+  {
+    "word": "exponent/exponential",
+    "meaning": "/ɪkˈspoʊ.nənt/\n/ˌek.spoʊˈnen.ʃəl/ containing an exponent\n (= a number or sign that shows how many times another number is to be multiplied by itself)"
+  },
+  {
+    "word": "exponent/mantissa",
+    "meaning": "/ɪkˈspoʊ.nənt/ / mænˈtɪsə /尾数"
+  },
+  {
+    "word": "exponential/ factorial",
+    "meaning": ""
+  },
+  {
+    "word": "expression evaluation",
+    "meaning": "表达式求值"
+  },
+  {
+    "word": "extension of the file",
+    "meaning": "文件后缀"
+  },
+  {
+    "word": "extract a substring",
+    "meaning": ""
+  },
+  {
+    "word": "facade pattern",
+    "meaning": "[fəˈsɑːd]外观模式"
+  },
+  {
+    "word": "factorize",
+    "meaning": "vt. 因式分解；把复杂计算分解为基本运算"
+  },
+  {
+    "word": "fail-fast",
+    "meaning": "detecting and addressing errors as early as possible in the development process; \naligns with the agile development methodology, where iterative cycles and continuous feedback are emphasized. \nThe goal is to make the development process more responsive to changes, reduce the cost of fixing issues, and improve the overall reliability of software systems."
+  },
+  {
+    "word": "failover",
+    "meaning": "['feɪləʊvə]（计算机）故障切换"
+  },
+  {
+    "word": "favicon",
+    "meaning": "[ˈfeɪvɪkɑːn] 网站图标"
+  },
+  {
+    "word": "file explorer",
+    "meaning": "文件管理器"
+  },
+  {
+    "word": "float, double",
+    "meaning": "single-precision, double-precision floating-point type"
+  },
+  {
+    "word": "flush the buffer",
+    "meaning": "刷新缓冲区"
+  },
+  {
+    "word": "Foo, bar, and baz",
+    "meaning": "placeholder"
+  },
+  {
+    "word": "format specifier",
+    "meaning": "格式说明符"
+  },
+  {
+    "word": "fraction",
+    "meaning": "/ˈfræk.ʃən/ a number that results from dividing one whole number by another"
+  },
+  {
+    "word": "fractional numbers -> decimal numbers",
+    "meaning": "Decimals represent fractions using a decimal point and decimal places."
+  },
+  {
+    "word": "from the operational standpoint",
+    "meaning": ""
+  },
+  {
+    "word": "fullfill the promises",
+    "meaning": ""
+  },
+  {
+    "word": "fully-automated deployment machinery",
+    "meaning": "全自动部署机制"
+  },
+  {
+    "word": "Gemini",
+    "meaning": "/ˈdʒem.ə.naɪ/"
+  },
+  {
+    "word": "generics",
+    "meaning": "parametric polymorphism"
+  },
+  {
+    "word": "genesis",
+    "meaning": "/ ˈdʒenəsɪs /发生；起源"
+  },
+  {
+    "word": "glitch",
+    "meaning": "[ɡlɪtʃ]电子脉冲"
+  },
+  {
+    "word": "granularity",
+    "meaning": "/ˈɡræn.jəˈler.ə.t̬i/ the quality of including a lot of small details"
+  },
+  {
+    "word": "Hadoop",
+    "meaning": ""
+  },
+  {
+    "word": "handshake and establish a TCP connection",
+    "meaning": ""
+  },
+  {
+    "word": "hang",
+    "meaning": "(of a computer program or system) to stop working or appearing on a screen:"
+  },
+  {
+    "word": "heartfelt/disheartened",
+    "meaning": "strongly felt and sincere"
+  },
+  {
+    "word": "hexadecimal",
+    "meaning": "/ˌhek.səˈdes.ə.məl/ relating to or expressed in a system of counting based on the number 16 rather than the number 10"
+  },
+  {
+    "word": "high-end hardware, commodity hardware",
+    "meaning": ""
+  },
+  {
+    "word": "hypervisor",
+    "meaning": "[ˈhaɪpərvaɪzər]n. 超级监督者；管理程序"
+  },
+  {
+    "word": "I don't like being inside my shell but I am also aware of my limits.",
+    "meaning": ""
+  },
+  {
+    "word": "identifier",
+    "meaning": "strfr"
+  },
+  {
+    "word": "illegal argument exception",
+    "meaning": "非法参数异常"
+  },
+  {
+    "word": "implement",
+    "meaning": "impl"
+  },
+  {
+    "word": "in the middle -> after the withdrawal and before the deposit",
+    "meaning": ""
+  },
+  {
+    "word": "in-core, out-of-core",
+    "meaning": "内存内, 内存外"
+  },
+  {
+    "word": "inbound/outbound",
+    "meaning": ""
+  },
+  {
+    "word": "indefinite",
+    "meaning": "/ɪnˈdef.ən.ət/"
+  },
+  {
+    "word": "indent, indentation",
+    "meaning": "行首缩进v,n [ˌɪndenˈteɪʃn]"
+  },
+  {
+    "word": "inductive learning",
+    "meaning": "归纳学习"
+  },
+  {
+    "word": "infamous",
+    "meaning": "/ˈɪn.fə.məs/ famous for something considered bad"
+  },
+  {
+    "word": "inferred type of the variable",
+    "meaning": "推断的变量类型"
+  },
+  {
+    "word": "infrastructural support at the application level",
+    "meaning": ""
+  },
+  {
+    "word": "ingest data",
+    "meaning": "输入数据"
+  },
+  {
+    "word": "ingress",
+    "meaning": "进入"
+  },
+  {
+    "word": "inherit/inheritance",
+    "meaning": "[ɪnˈherɪt]/[ɪnˈherɪtəns] superclass subclass"
+  },
+  {
+    "word": "initiator",
+    "meaning": "/ɪˈnɪʃ.i.eɪ.t̬ɚ/"
+  },
+  {
+    "word": "instance -> instantiate <-> initiate",
+    "meaning": ""
+  },
+  {
+    "word": "instance variable/ class variable,  instantiate/instantiation",
+    "meaning": "to represent or be an example of something/实例化 class"
+  },
+  {
+    "word": "instead of all computers clogging one server to retrieve data",
+    "meaning": ""
+  },
+  {
+    "word": "intermittent bug",
+    "meaning": "/ˌɪn.t̬ɚˈmɪt.ənt/ Intermittent bug means the bug appears irregularly and is not consistently reproducible"
+  },
+  {
+    "word": "interoperable/interoperability",
+    "meaning": "adj. （计算机系统或软件、不同机器）可共同操作的/[计] 互操作性；互用性"
+  },
+  {
+    "word": "inverted Index",
+    "meaning": ""
+  },
+  {
+    "word": "invoke the packages/invocation",
+    "meaning": "[ɪnˈvoʊk] 调用/[ˌɪnvəˈkeɪʃn]调用 explicit constructor invocation"
+  },
+  {
+    "word": "ISP",
+    "meaning": "Internet Server Provider"
+  },
+  {
+    "word": "It's worth noting that the distinction between XX is not always black and white.",
+    "meaning": ""
+  },
+  {
+    "word": "iterable/iterator",
+    "meaning": "可迭代对象/迭代器，迭代程序"
+  },
+  {
+    "word": "justify-content controls where the flex items sit on the main axis.",
+    "meaning": ""
+  },
+  {
+    "word": "Kadane",
+    "meaning": ""
+  },
+  {
+    "word": "keystroke/ stroke a key",
+    "meaning": "[ˈkiːstroʊk] n. 击键；按键"
+  },
+  {
+    "word": "KMP",
+    "meaning": "Knuth Morris Pratt"
+  },
+  {
+    "word": "knock-off/ they usually knock off at 5pm = go off work",
+    "meaning": "/ˈnɑːk.ɑːf/ a cheap copy of a popular product"
+  },
+  {
+    "word": "lambda: expression lambda/ block lambda",
+    "meaning": ""
+  },
+  {
+    "word": "launder",
+    "meaning": "/ˈlɑːn.dɚ/vt.洗涤；清洗；洗黑钱 vi. 洗涤；洗熨；耐洗"
+  },
+  {
+    "word": "least Significant Digit (LSD)",
+    "meaning": "MSD->LSD"
+  },
+  {
+    "word": "lexer",
+    "meaning": "词法分析器"
+  },
+  {
+    "word": "lexicographic/lexicographically",
+    "meaning": ""
+  },
+  {
+    "word": "LFU/LRU",
+    "meaning": "least frequently used/least recently used"
+  },
+  {
+    "word": "license",
+    "meaning": "[ˈlaɪsns]"
+  },
+  {
+    "word": "line break",
+    "meaning": "换行符"
+  },
+  {
+    "word": "linefeed",
+    "meaning": "n. 换行，换行键"
+  },
+  {
+    "word": "list/listing",
+    "meaning": "a general collection of items, e.g., a grocery list, a list of names/\noften means a displayed list or output, like what a computer command produces, or sometimes a more formal or detailed presentation of items"
+  },
+  {
+    "word": "lite",
+    "meaning": "[laɪt]精简版"
+  },
+  {
+    "word": "literal, character/string ~",
+    "meaning": "字符常值"
+  },
+  {
+    "word": "lower bound/upper bound",
+    "meaning": ""
+  },
+  {
+    "word": "macro",
+    "meaning": "[ˈmækroʊ] （计算机）宏指令"
+  },
+  {
+    "word": "mainframe",
+    "meaning": "a very large, powerful computer with a lot of memory that many people can use at the same time"
+  },
+  {
+    "word": "malware",
+    "meaning": "computer software that is designed to damage the way a computer works"
+  },
+  {
+    "word": "maven",
+    "meaning": "[ˈmeɪvn]n. 内行，专家"
+  },
+  {
+    "word": "maven/gradle",
+    "meaning": "eɪ"
+  },
+  {
+    "word": "medium",
+    "meaning": "储存媒体"
+  },
+  {
+    "word": "megabyte",
+    "meaning": "[ˈmeɡəbaɪt] 6 [计] 兆字节"
+  },
+  {
+    "word": "Megastore/Spanner",
+    "meaning": ""
+  },
+  {
+    "word": "memoize/memoization",
+    "meaning": "i单独发音"
+  },
+  {
+    "word": "memorize",
+    "meaning": "记忆"
+  },
+  {
+    "word": "memory corruption/overhead",
+    "meaning": "内存损坏/内存开销"
+  },
+  {
+    "word": "message broker",
+    "meaning": "[ˈbroʊkər] 消息代理"
+  },
+  {
+    "word": "metacharacter",
+    "meaning": "[计]元字符"
+  },
+  {
+    "word": "metadata",
+    "meaning": "[ˈmetədeɪtə]"
+  },
+  {
+    "word": "metaphor",
+    "meaning": "/ ˈmetəfərˌ/n. 隐喻，暗喻；象征，标志"
+  },
+  {
+    "word": "method object, function object",
+    "meaning": ""
+  },
+  {
+    "word": "method signature",
+    "meaning": "方法签名"
+  },
+  {
+    "word": "mission-critical",
+    "meaning": "extremely important or necessary for a company, activity, etc. to operate successfully"
+  },
+  {
+    "word": "mixin",
+    "meaning": ""
+  },
+  {
+    "word": "modifier/access modifier",
+    "meaning": "[ˈmɑːdɪfaɪər] 修饰符/访问修饰符"
+  },
+  {
+    "word": "modularity",
+    "meaning": "[,mɔdju'læriti, -dʒu-]"
+  },
+  {
+    "word": "Mongoose",
+    "meaning": "[ˈmɑːŋɡuːs]"
+  },
+  {
+    "word": "monolithic <->",
+    "meaning": ""
+  },
+  {
+    "word": "monoliths(monolithics) and microservices",
+    "meaning": "/ˈmɑː.nə.lɪθ/ -> /ˌmɑː.nəˈlɪθ.ɪk/"
+  },
+  {
+    "word": "mount the storage of your choice",
+    "meaning": ""
+  },
+  {
+    "word": "mouse jiggler",
+    "meaning": ""
+  },
+  {
+    "word": "MQTT",
+    "meaning": "Message Queuing Telemetry Transport 消息队列遥测传输协议"
+  },
+  {
+    "word": "MRE",
+    "meaning": "minimal reproducible example"
+  },
+  {
+    "word": "multicast",
+    "meaning": ""
+  },
+  {
+    "word": "mutual exclusion",
+    "meaning": ""
+  },
+  {
+    "word": "naming convention",
+    "meaning": ""
+  },
+  {
+    "word": "nanoseconds-microsecond-millisecond",
+    "meaning": ""
+  },
+  {
+    "word": "navigate to particular pages",
+    "meaning": ""
+  },
+  {
+    "word": "naysayer",
+    "meaning": ""
+  },
+  {
+    "word": "network layer",
+    "meaning": "TCP, UDP"
+  },
+  {
+    "word": "Nginx",
+    "meaning": "engine x"
+  },
+  {
+    "word": "not a statement, but a literal expression",
+    "meaning": ""
+  },
+  {
+    "word": "Not inherently. Some heavyweight ORMs can add a general drag to things \nbut we're not talking orders of magnitude slowdown.",
+    "meaning": ""
+  },
+  {
+    "word": "not with the same data validity",
+    "meaning": ""
+  },
+  {
+    "word": "numerator/denominator",
+    "meaning": "/ˈnuː.mə.reɪ.t̬ɚ/ /dɪˈnɑː.mə.neɪ.t̬ɚ/"
+  },
+  {
+    "word": "numeric/string literal",
+    "meaning": ""
+  },
+  {
+    "word": "Nvidia",
+    "meaning": "The emphasis is on the second syllable, \"VID,\" and the \"N\" at the beginning is soft."
+  },
+  {
+    "word": "obligatory parameters",
+    "meaning": ""
+  },
+  {
+    "word": "observable→subscribe",
+    "meaning": ""
+  },
+  {
+    "word": "OLAP",
+    "meaning": "Online Analytical Processing"
+  },
+  {
+    "word": "OLTP",
+    "meaning": "Online Transaction processing"
+  },
+  {
+    "word": "on the fly",
+    "meaning": "动态产生的，及时生成的"
+  },
+  {
+    "word": "on the toolbar",
+    "meaning": ""
+  },
+  {
+    "word": "on the top level of the tree",
+    "meaning": ""
+  },
+  {
+    "word": "on-demand",
+    "meaning": ""
+  },
+  {
+    "word": "on-premise",
+    "meaning": "预置的，本地的[ˈpremɪs]"
+  },
+  {
+    "word": "operand",
+    "meaning": "/ˈɑːp.ər.ənd/ a number or quantity that has something done to it in a calculation."
+  },
+  {
+    "word": "operand/operator",
+    "meaning": "[计] 操作数/运算符"
+  },
+  {
+    "word": "operations",
+    "meaning": "ops"
+  },
+  {
+    "word": "operator",
+    "meaning": "a symbol that does something to a number or quantity in a calculation"
+  },
+  {
+    "word": "operator precedence rules",
+    "meaning": "运算符优先规则"
+  },
+  {
+    "word": "Oracle",
+    "meaning": "['ɔrəkl]"
+  },
+  {
+    "word": "orchestrate",
+    "meaning": "/ˈɔːr.kə.streɪt/ to arrange something carefully, and sometimes unfairly, so as to achieve a wanted result"
+  },
+  {
+    "word": "Orion",
+    "meaning": "[ɔ'raɪən]"
+  },
+  {
+    "word": "OSI",
+    "meaning": ""
+  },
+  {
+    "word": "overload",
+    "meaning": "过载"
+  },
+  {
+    "word": "paginator",
+    "meaning": ""
+  },
+  {
+    "word": "parametrize",
+    "meaning": "/ pəˈræmətraɪz /"
+  },
+  {
+    "word": "parser",
+    "meaning": "n. [计] 分析程序,语法分析器"
+  },
+  {
+    "word": "partition->segment",
+    "meaning": "like different folders, improve the throughput"
+  },
+  {
+    "word": "payload",
+    "meaning": "有效载荷"
+  },
+  {
+    "word": "PDA",
+    "meaning": "Personal Digital Assistant"
+  },
+  {
+    "word": "perfect square = square number",
+    "meaning": ""
+  },
+  {
+    "word": "placeholder",
+    "meaning": ""
+  },
+  {
+    "word": "plug&play",
+    "meaning": "即插即用"
+  },
+  {
+    "word": "poll",
+    "meaning": "[poʊl]轮询"
+  },
+  {
+    "word": "polymorphism",
+    "meaning": "[,pɑlɪ'mɔrfɪzm]多态性 \nPolymorphism is the process of performing the same task in different ways."
+  },
+  {
+    "word": "populate",
+    "meaning": "填入"
+  },
+  {
+    "word": "portability",
+    "meaning": "可移植性"
+  },
+  {
+    "word": "portfolio",
+    "meaning": "[pɔːrtˈfoʊlioʊ] 文件夹"
+  },
+  {
+    "word": "POSIX",
+    "meaning": "Portable Operating System Interface"
+  },
+  {
+    "word": "postgresQL",
+    "meaning": "post-gress-Q-L"
+  },
+  {
+    "word": "precedence",
+    "meaning": "[ˈpresɪdəns]"
+  },
+  {
+    "word": "preclude using it for huge strings",
+    "meaning": ""
+  },
+  {
+    "word": "prime/foreign key",
+    "meaning": "主键/外键"
+  },
+  {
+    "word": "primitive type",
+    "meaning": "基本类型"
+  },
+  {
+    "word": "Procedural query languages",
+    "meaning": ""
+  },
+  {
+    "word": "producing code/ consuming code",
+    "meaning": ""
+  },
+  {
+    "word": "profile",
+    "meaning": "配置文件"
+  },
+  {
+    "word": "programming paradigm",
+    "meaning": ""
+  },
+  {
+    "word": "property(attribute) /method",
+    "meaning": ""
+  },
+  {
+    "word": "provide a convenient way to experiment with Kubernetes features without the need for a full-scale production cluster",
+    "meaning": ""
+  },
+  {
+    "word": "pseudo code",
+    "meaning": "['sju:doˌkod] 伪代码"
+  },
+  {
+    "word": "publish ports",
+    "meaning": ""
+  },
+  {
+    "word": "publisher/ subscriber",
+    "meaning": ""
+  },
+  {
+    "word": "PyPI",
+    "meaning": "Python Package Index"
+  },
+  {
+    "word": "qualifier",
+    "meaning": "修饰符"
+  },
+  {
+    "word": "RA",
+    "meaning": "Relational Algebra"
+  },
+  {
+    "word": "radix",
+    "meaning": "/ˈreɪ.dɪks/"
+  },
+  {
+    "word": "radix point",
+    "meaning": "."
+  },
+  {
+    "word": "rc",
+    "meaning": "run commands"
+  },
+  {
+    "word": "RDD",
+    "meaning": "Resilient Distributed Dataset弹性分布式数据集"
+  },
+  {
+    "word": "rebase",
+    "meaning": "[ri'beis]复位基底"
+  },
+  {
+    "word": "regex",
+    "meaning": "regEx ['reɡeks] 正则表达式"
+  },
+  {
+    "word": "registry",
+    "meaning": "[ˈredʒɪstri] 注册中心"
+  },
+  {
+    "word": "relational operator",
+    "meaning": "关系运算符"
+  },
+  {
+    "word": "reload",
+    "meaning": "[ˌriːˈloʊd]重新载入"
+  },
+  {
+    "word": "replica",
+    "meaning": "replication factor/strategy"
+  },
+  {
+    "word": "repository",
+    "meaning": "仓库；知识库"
+  },
+  {
+    "word": "requirement",
+    "meaning": "需求"
+  },
+  {
+    "word": "resolve/reject",
+    "meaning": ""
+  },
+  {
+    "word": "resource starvation",
+    "meaning": "资源匮乏"
+  },
+  {
+    "word": "retrieve/retrieval",
+    "meaning": "[rɪˈtriːv][计] 检索/n. 检索；恢复；取回"
+  },
+  {
+    "word": "reverse lexicographical",
+    "meaning": ""
+  },
+  {
+    "word": "revoke a token’s access",
+    "meaning": "撤销令牌的访问权限"
+  },
+  {
+    "word": "rollout/rollback",
+    "meaning": ""
+  },
+  {
+    "word": "root directory",
+    "meaning": ""
+  },
+  {
+    "word": "Rosetta",
+    "meaning": ""
+  },
+  {
+    "word": "Round-Robin",
+    "meaning": ""
+  },
+  {
+    "word": "router/routing",
+    "meaning": "[ˈruːtər][计] 路由器/路由选择"
+  },
+  {
+    "word": "RPC",
+    "meaning": "Remote Procedure Call"
+  },
+  {
+    "word": "runtime",
+    "meaning": "运行环境"
+  },
+  {
+    "word": "SaaS, IaaS, PaaS",
+    "meaning": "Software, Infrastructure, Platform as a Service"
+  },
+  {
+    "word": "scale up/ tear down",
+    "meaning": ""
+  },
+  {
+    "word": "scroll wheel",
+    "meaning": "i am not suitable for that"
+  },
+  {
+    "word": "segmentation faults",
+    "meaning": "a runtime error that occurs when a program tries to access a memory location that it's not allowed to\nDereferencing a null or invalid pointer, Accessing memory out of bounds, \nModifying read-only memory, Using a pointer after freeing memory"
+  },
+  {
+    "word": "self-documenting",
+    "meaning": "可读性很高的代码"
+  },
+  {
+    "word": "self-hosted",
+    "meaning": "自托管"
+  },
+  {
+    "word": "semaphore",
+    "meaning": "[ˈseməfɔːr]n. 信号标v.发信号"
+  },
+  {
+    "word": "sentinel value",
+    "meaning": "[ˈsentɪnl] 标记值"
+  },
+  {
+    "word": "set each element to be its own root",
+    "meaning": ""
+  },
+  {
+    "word": "sha",
+    "meaning": "SHA stands for Secure Hash Algorithm. It's a family of cryptographic hash functions used to uniquely identify data."
+  },
+  {
+    "word": "shard",
+    "meaning": "/ʃɑːrd/ a piece of a broken glass, cup, container, or similar object"
+  },
+  {
+    "word": "Shebang",
+    "meaning": "#! belong to an interpreter directive"
+  },
+  {
+    "word": "shipment",
+    "meaning": "/ˈʃɪp.mənt/ a large amount of goods sent together to a place, or the act of sending them"
+  },
+  {
+    "word": "shuffle",
+    "meaning": "调动，洗牌"
+  },
+  {
+    "word": "skewed tree",
+    "meaning": ""
+  },
+  {
+    "word": "snake case",
+    "meaning": "[sneɪk]"
+  },
+  {
+    "word": "spacing",
+    "meaning": "the amount of distance between lines or words, especially on a printed page"
+  },
+  {
+    "word": "specifier",
+    "meaning": "[计] 说明符；指示语"
+  },
+  {
+    "word": "specify identifying attributes",
+    "meaning": ""
+  },
+  {
+    "word": "squiggly",
+    "meaning": "/ ˈskwɪɡli /adj. 弯弯曲曲的"
+  },
+  {
+    "word": "SSH",
+    "meaning": "Secure Shell"
+  },
+  {
+    "word": "SSL/TLS",
+    "meaning": "security socket layer/transport layer security"
+  },
+  {
+    "word": "stages",
+    "meaning": "development/ production"
+  },
+  {
+    "word": "standard error console stream (stderr)",
+    "meaning": "standard output console stream (stdout)."
+  },
+  {
+    "word": "static/dynamic typing",
+    "meaning": "Java/Python"
+  },
+  {
+    "word": "statically-typed language",
+    "meaning": "all variables must be declared before they can be used"
+  },
+  {
+    "word": "stay away from the low level constructs/building boxes -> high level structure",
+    "meaning": ""
+  },
+  {
+    "word": "string literal",
+    "meaning": "`${name}`"
+  },
+  {
+    "word": "strip space",
+    "meaning": "删除空格"
+  },
+  {
+    "word": "subscriptable",
+    "meaning": "可下标"
+  },
+  {
+    "word": "sudoku",
+    "meaning": "[suˈdoʊkuː] n. 数独，九宫格游戏"
+  },
+  {
+    "word": "symbol table",
+    "meaning": "符号表"
+  },
+  {
+    "word": "symbolic",
+    "meaning": ""
+  },
+  {
+    "word": "syntactic sugar",
+    "meaning": ""
+  },
+  {
+    "word": "syntax-semantics",
+    "meaning": ""
+  },
+  {
+    "word": "terabyte",
+    "meaning": "[ˈterəbaɪt]兆兆字节（信度量度单位）；太字节"
+  },
+  {
+    "word": "ternary/ ternary operator/ternary representation",
+    "meaning": "三元的，三进制的；第三的/ 三元运算符"
+  },
+  {
+    "word": "Test cases pass",
+    "meaning": ""
+  },
+  {
+    "word": "text justification",
+    "meaning": "文本对齐"
+  },
+  {
+    "word": "the base in mathematical numeral systems",
+    "meaning": ""
+  },
+  {
+    "word": "the designated training node",
+    "meaning": ""
+  },
+  {
+    "word": "the language is in decline and will probably be phased out soon",
+    "meaning": ""
+  },
+  {
+    "word": "the prompt of the shell",
+    "meaning": "$"
+  },
+  {
+    "word": "the thread is preempted -> awaken",
+    "meaning": ""
+  },
+  {
+    "word": "Threads are not necessarily executed simultaneously",
+    "meaning": ""
+  },
+  {
+    "word": "time-stamped directory",
+    "meaning": "带时间戳的目录"
+  },
+  {
+    "word": "toolkit",
+    "meaning": "/ˈtuːlˌkɪt/"
+  },
+  {
+    "word": "Transport Layer Security",
+    "meaning": "TLS"
+  },
+  {
+    "word": "trim",
+    "meaning": "/trɪm/"
+  },
+  {
+    "word": "triplet",
+    "meaning": "三元组"
+  },
+  {
+    "word": "trumpet",
+    "meaning": "[ˈtrʌmpɪt]"
+  },
+  {
+    "word": "tsc",
+    "meaning": "TypeScript Compiler"
+  },
+  {
+    "word": "tuple",
+    "meaning": "元组、数组"
+  },
+  {
+    "word": "two thirds/three fourths",
+    "meaning": ""
+  },
+  {
+    "word": "type coercion/inference",
+    "meaning": "类型强制[koʊˈɜːrʒn]/类型推断"
+  },
+  {
+    "word": "typography",
+    "meaning": "/ taɪˈpɑːɡrəfi /排印；[印刷] 活版印刷术；印刷格式"
+  },
+  {
+    "word": "Ubuntu",
+    "meaning": "[ʊˈbʊntuː]"
+  },
+  {
+    "word": "unhashable",
+    "meaning": ""
+  },
+  {
+    "word": "unicode",
+    "meaning": "统一的字符编码标准"
+  },
+  {
+    "word": "uninstall",
+    "meaning": ""
+  },
+  {
+    "word": "UUID",
+    "meaning": "unique identifiers with an extremely low probability of collision"
+  },
+  {
+    "word": "varying level of client traffic",
+    "meaning": "不同级别的客户流量"
+  },
+  {
+    "word": "versatility",
+    "meaning": "/ ˌvɜːrsəˈtɪləti /多功能性"
+  },
+  {
+    "word": "video streaming transmission",
+    "meaning": ""
+  },
+  {
+    "word": "virtualize/virtualization",
+    "meaning": ""
+  },
+  {
+    "word": "volatile memory",
+    "meaning": "易失性存储器"
+  },
+  {
+    "word": "wake-up call",
+    "meaning": ""
+  },
+  {
+    "word": "webinar",
+    "meaning": "/ˈweb.ə.nɑːr/"
+  },
+  {
+    "word": "wildcard character",
+    "meaning": "通配符"
+  },
+  {
+    "word": "workstation",
+    "meaning": "role model"
+  },
+  {
+    "word": "wrap/nowrap",
+    "meaning": "自动换行/非自动换行"
+  },
+  {
+    "word": "wrapper",
+    "meaning": "[ˈræpər]包装器"
+  },
+  {
+    "word": "二进制大对象(BLOB)是任意类型的数据。BLOB的大小没有限制。",
+    "meaning": ""
+  }
+]

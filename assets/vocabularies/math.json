@@ -1,0 +1,554 @@
+[
+  {
+    "word": "Mon Jan 02 2023 00:00:00 GMT+0100 (Central European Standard Time)",
+    "meaning": "one half/ one over two"
+  },
+  {
+    "word": "1/3, 2/3",
+    "meaning": "one third/ two thirds"
+  },
+  {
+    "word": "½ N^3, 1/6 N^3",
+    "meaning": "one half N cubed, one sixth N cubed"
+  },
+  {
+    "word": "A - B",
+    "meaning": "A -> minuend,  B -> subtrahend"
+  },
+  {
+    "word": "abscissa, ordinate",
+    "meaning": "[æbˈsɪsə]n. [数][天] 横坐标；横线"
+  },
+  {
+    "word": "access modifier",
+    "meaning": "访问修饰符"
+  },
+  {
+    "word": "acronym",
+    "meaning": "[ˈækrənɪm] n. 首字母缩略词"
+  },
+  {
+    "word": "actuator",
+    "meaning": "/ˈæk.tʃu.eɪ.t̬ɚ/ part of a machine or system that moves something or makes something work"
+  },
+  {
+    "word": "addition/subtraction/subtract",
+    "meaning": "[səbˈtrækt]"
+  },
+  {
+    "word": "amount of time/space",
+    "meaning": ""
+  },
+  {
+    "word": "anisotropic",
+    "meaning": "各向异性"
+  },
+  {
+    "word": "arithmetic/geometric progression",
+    "meaning": "等差/等比数列"
+  },
+  {
+    "word": "asymptotic",
+    "meaning": "渐进线的 Big O notation is used to describe an upper bound of a function"
+  },
+  {
+    "word": "axis/axes",
+    "meaning": "[ˈæk.sɪs]/[ˈæk.siːz] major ~，minor~"
+  },
+  {
+    "word": "base -> binary, ternary, octal, decimal, hexadecimal  representation",
+    "meaning": ""
+  },
+  {
+    "word": "be augmented by the new studies",
+    "meaning": ""
+  },
+  {
+    "word": "be scrambled",
+    "meaning": "be out of order"
+  },
+  {
+    "word": "bear out",
+    "meaning": "证实"
+  },
+  {
+    "word": "bells and whistles",
+    "meaning": "special features that are added to a product or system to attract more buyers"
+  },
+  {
+    "word": "binocular",
+    "meaning": "双目的"
+  },
+  {
+    "word": "binomial",
+    "meaning": "二项式的"
+  },
+  {
+    "word": "Boyer-Moore Voting Algorithm",
+    "meaning": ""
+  },
+  {
+    "word": "calculus",
+    "meaning": "[ˈkælkjələs]微积分学"
+  },
+  {
+    "word": "canonical",
+    "meaning": "[kəˈnɑːnɪkl] 经典的，最简洁的/标准的，典范的；准确的，权威的"
+  },
+  {
+    "word": "cardiovascular",
+    "meaning": "/ˌkɑːr.di.oʊˈvæs.kjə.lɚ/relating to the heart and blood vessels (= tubes that carry blood around the body)"
+  },
+  {
+    "word": "Cartesian plane",
+    "meaning": ""
+  },
+  {
+    "word": "choropleth",
+    "meaning": "等值线"
+  },
+  {
+    "word": "co prime integer",
+    "meaning": ""
+  },
+  {
+    "word": "composite types",
+    "meaning": "复合类型"
+  },
+  {
+    "word": "concoct elaborate fantasy",
+    "meaning": "编造精心制作的幻想片"
+  },
+  {
+    "word": "congruence",
+    "meaning": "一致，全等"
+  },
+  {
+    "word": "conjugate",
+    "meaning": "[ˈkɑːndʒəɡeɪt]v. 使共轭 adj. 共轭的n共轭物"
+  },
+  {
+    "word": "convex/concave",
+    "meaning": "[ˈkɑːn.keɪv]/[ˈkɑːn.veks]"
+  },
+  {
+    "word": "Copernicus",
+    "meaning": "哥白尼/kəpənikəs/"
+  },
+  {
+    "word": "corollary",
+    "meaning": "[ˈkɔːrəleri] n. 推论；必然的结果"
+  },
+  {
+    "word": "corpora",
+    "meaning": "主体，全集"
+  },
+  {
+    "word": "cubical",
+    "meaning": ""
+  },
+  {
+    "word": "curvature",
+    "meaning": "n. 弯曲，[数] 曲率"
+  },
+  {
+    "word": "decimal point/ radix point",
+    "meaning": "[数] 小数点"
+  },
+  {
+    "word": "decimals and fractions",
+    "meaning": "小数和分数"
+  },
+  {
+    "word": "dendrogram",
+    "meaning": "系统树图"
+  },
+  {
+    "word": "determinant",
+    "meaning": "行列式"
+  },
+  {
+    "word": "diagonal",
+    "meaning": "/daɪˈæɡ.ən.əl/ adj, n"
+  },
+  {
+    "word": "dichotomy",
+    "meaning": "二分法"
+  },
+  {
+    "word": "discriminant",
+    "meaning": "n. 可资辨别的因素；判别式"
+  },
+  {
+    "word": "dividend/ divisor; numerator/denominator",
+    "meaning": "[ˈdɪvɪdend] /[dɪˈvaɪzər]"
+  },
+  {
+    "word": "divisibility",
+    "meaning": "[dəˌvɪzəˈbɪləti] /n. 可分性；[数] 可除性"
+  },
+  {
+    "word": "divisible",
+    "meaning": "[dɪˈvɪzəbl] adj. 可分的"
+  },
+  {
+    "word": "ellipse/ellipsoid/elliptic",
+    "meaning": "[数] 椭圆/[ɪ'lɪpsɔɪd]椭球 n,adj/椭圆形的"
+  },
+  {
+    "word": "ellipsoid",
+    "meaning": "n. 椭圆体"
+  },
+  {
+    "word": "encapsulate",
+    "meaning": "vt压缩；将…封进内部；概述"
+  },
+  {
+    "word": "entourage",
+    "meaning": "/ˌɑːn.tuːˈrɑːʒ/ the group of people who travel with and work for an important or famous person 随行人员，随从"
+  },
+  {
+    "word": "Euclidean",
+    "meaning": ""
+  },
+  {
+    "word": "exclusive OR",
+    "meaning": "XOR"
+  },
+  {
+    "word": "exponent/exponential",
+    "meaning": "[ɪkˈspoʊnənt]指数/[ˌekspəˈnenʃl]指数的"
+  },
+  {
+    "word": "extern",
+    "meaning": "adj. 外面的"
+  },
+  {
+    "word": "factorial",
+    "meaning": "[fækˈtɔːriəl]adj. 因子的，阶乘的 n. [数] 阶乘"
+  },
+  {
+    "word": "factorize",
+    "meaning": "vt. 因式分解；把复杂计算分解为基本运算"
+  },
+  {
+    "word": "Fibonacci",
+    "meaning": "[,fibə'na:si]"
+  },
+  {
+    "word": "fraction/fractional",
+    "meaning": "n. 分数；部分/分数的，小数的"
+  },
+  {
+    "word": "fungible",
+    "meaning": "[ˈfʌndʒəbl]可取代的"
+  },
+  {
+    "word": "geodesic",
+    "meaning": "测量的"
+  },
+  {
+    "word": "Greatest Common Divisor",
+    "meaning": "GCD -> Euclidean algorithm"
+  },
+  {
+    "word": "heighten a review",
+    "meaning": "提高审查"
+  },
+  {
+    "word": "histogram",
+    "meaning": "[ˈhɪstəɡræm]柱状图"
+  },
+  {
+    "word": "hypotenuse",
+    "meaning": "n. 直角三角形的斜边"
+  },
+  {
+    "word": "idempotent",
+    "meaning": "幂等的"
+  },
+  {
+    "word": "identity matrix",
+    "meaning": "单位矩阵"
+  },
+  {
+    "word": "indefinite",
+    "meaning": "不确定的；无限的"
+  },
+  {
+    "word": "indicator variable",
+    "meaning": ""
+  },
+  {
+    "word": "inductive learning",
+    "meaning": "归纳学习"
+  },
+  {
+    "word": "integral",
+    "meaning": "adj.积分的,完整的n.积分,完整"
+  },
+  {
+    "word": "isomap",
+    "meaning": "等距映射"
+  },
+  {
+    "word": "isometry",
+    "meaning": "n. 等距；等容；等高"
+  },
+  {
+    "word": "isomorphism",
+    "meaning": "同型"
+  },
+  {
+    "word": "isotropic",
+    "meaning": "各向同性"
+  },
+  {
+    "word": "least common multiple",
+    "meaning": "最小公倍数"
+  },
+  {
+    "word": "logarithm/logarithmic/logarithmically",
+    "meaning": "['lɔɡərɪðəm]对数/对数的"
+  },
+  {
+    "word": "make a lane",
+    "meaning": ""
+  },
+  {
+    "word": "mantissa",
+    "meaning": "[mæn'tɪsə]小数部分"
+  },
+  {
+    "word": "mathematical induction",
+    "meaning": "数学归纳法"
+  },
+  {
+    "word": "Mathematical Induction Prove",
+    "meaning": "数学归纳法证明"
+  },
+  {
+    "word": "mathematical notation",
+    "meaning": "数学符号"
+  },
+  {
+    "word": "matrix",
+    "meaning": "matrices"
+  },
+  {
+    "word": "mega, giga",
+    "meaning": "10^6,10^9 megahertz"
+  },
+  {
+    "word": "million, billion, trillion",
+    "meaning": "10^6，10^9，10^12"
+  },
+  {
+    "word": "mixing coefficient",
+    "meaning": "混合系数"
+  },
+  {
+    "word": "modulo: quotient/ remainder",
+    "meaning": "/ ˈmɑːdjəˌloʊ /"
+  },
+  {
+    "word": "multiplicative",
+    "meaning": "adj. [数] 乘法的；增加的"
+  },
+  {
+    "word": "multiplicity",
+    "meaning": "重性"
+  },
+  {
+    "word": "multiplier/multiplication",
+    "meaning": "[数] 乘数"
+  },
+  {
+    "word": "multiply/times",
+    "meaning": "verb/preposition"
+  },
+  {
+    "word": "normalizing factor",
+    "meaning": "归一化因子"
+  },
+  {
+    "word": "NP complete",
+    "meaning": "nondeterministic polynomial-time complete"
+  },
+  {
+    "word": "null",
+    "meaning": "/nʌl/"
+  },
+  {
+    "word": "calculus",
+    "meaning": "/ˈkæl.kjə.ləs/ an area of advanced mathematics in which continuously changing values are studied 微积分"
+  },
+  {
+    "word": "O(n⋅n!)",
+    "meaning": "big O of n times n factorial"
+  },
+  {
+    "word": "orthogonal/orthonormal",
+    "meaning": ""
+  },
+  {
+    "word": "oval",
+    "meaning": "[ˈoʊvl]adj. 椭圆的 n. 椭圆形"
+  },
+  {
+    "word": "parabola/parabolic/paraboloid",
+    "meaning": "抛物线/抛物线的/抛物面"
+  },
+  {
+    "word": "paraboloid",
+    "meaning": "抛物面"
+  },
+  {
+    "word": "parallax",
+    "meaning": "视差"
+  },
+  {
+    "word": "parallelogram",
+    "meaning": "平行四边形"
+  },
+  {
+    "word": "combinatorics",
+    "meaning": ""
+  },
+  {
+    "word": "parity",
+    "meaning": "[数] 奇偶性"
+  },
+  {
+    "word": "perfect square",
+    "meaning": ""
+  },
+  {
+    "word": "perimeter",
+    "meaning": "周长"
+  },
+  {
+    "word": "permutation/combination",
+    "meaning": "排列/组合"
+  },
+  {
+    "word": "perpendicular",
+    "meaning": "adj. 垂直的n. 垂线"
+  },
+  {
+    "word": "polynomial",
+    "meaning": "多项式"
+  },
+  {
+    "word": "prime number -> Composite numbers",
+    "meaning": "素数"
+  },
+  {
+    "word": "probabilistic",
+    "meaning": ""
+  },
+  {
+    "word": "pseudo",
+    "meaning": "[ˈsuːdoʊ]"
+  },
+  {
+    "word": "python:exit() = ctrl+d",
+    "meaning": ""
+  },
+  {
+    "word": "quadrant",
+    "meaning": "[ˈkwɑːdrənt]n. 象限"
+  },
+  {
+    "word": "quadratic",
+    "meaning": "二次的"
+  },
+  {
+    "word": "quadrilateral",
+    "meaning": "[ˌkwɑːdrɪˈlætərəl] n. 四边形 adj. 四边形的"
+  },
+  {
+    "word": "quadruple",
+    "meaning": "[kwɑːˈdruːpl]adj. 四倍的；四重的n. 四倍；四元组"
+  },
+  {
+    "word": "quartile/lower ~(first ~)/higher ~(third ~)/median",
+    "meaning": "/ˈkwɔːr.taɪl/四分位数"
+  },
+  {
+    "word": "quintuple",
+    "meaning": "[kwɪnˈtuːpl] n五倍量 adj 五倍的"
+  },
+  {
+    "word": "quotient/remainder",
+    "meaning": "系数，模数/余数 = modulus/[ˈkwoʊʃnt]"
+  },
+  {
+    "word": "reasoning",
+    "meaning": "推理，论证 elementary reasoning extra reasoning"
+  },
+  {
+    "word": "recurse/recursion:converge to the base case",
+    "meaning": "递归"
+  },
+  {
+    "word": "regularization",
+    "meaning": "[,reɡjʊləraɪ'zeɪʃən] 正则化"
+  },
+  {
+    "word": "rigorous /proof",
+    "meaning": "[ˈrɪɡərəs]严格的；严密的；严厉的/严密的证明"
+  },
+  {
+    "word": "significand=mantissa",
+    "meaning": "n. 有效数/小数部分"
+  },
+  {
+    "word": "sinusoid",
+    "meaning": "正弦曲线"
+  },
+  {
+    "word": "squiggle",
+    "meaning": "波形曲线"
+  },
+  {
+    "word": "standard deviation",
+    "meaning": "偏离"
+  },
+  {
+    "word": "subnormal",
+    "meaning": "次正规的"
+  },
+  {
+    "word": "subtract/subtraction",
+    "meaning": "[səbˈtrækt]/[səbˈtrækʃn]减法,减少，差集"
+  },
+  {
+    "word": "superset/subset",
+    "meaning": "超集/子集"
+  },
+  {
+    "word": "tanh",
+    "meaning": "hyperbolic tangent"
+  },
+  {
+    "word": "ternary",
+    "meaning": "['tɝnəri] [数]三元的，三进制的；第三的"
+  },
+  {
+    "word": "triad",
+    "meaning": "三元组"
+  },
+  {
+    "word": "trigonometric",
+    "meaning": "/ˌtrɪɡ.ə.nəˈmet.rik/ 三角法的；三角学的"
+  },
+  {
+    "word": "univariate/multivariate",
+    "meaning": ""
+  },
+  {
+    "word": "x2",
+    "meaning": "to the power of 2"
+  }
+]
